@@ -3,6 +3,8 @@ from here https://github.com/Manicsteiner/VGMToolbox
 
 The cri2wav is fully working on Final Fantasy Brave Exvius audio files now.
 
+Untested on other games but I imagine the improvements made would enable it to work for some other titles too.
+
 ----
 
 # 提取转换CriWare CBX/ACB/AWB/HCA音轨
