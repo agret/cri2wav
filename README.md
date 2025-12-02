@@ -1,3 +1,10 @@
+Agret fork is based on nyfair's fork but with updated format.dll & vgmtutil.dll
+from here https://github.com/Manicsteiner/VGMToolbox
+
+The cri2wav is fully working on Final Fantasy Brave Exvius audio files now.
+
+----
+
 # 提取转换CriWare CBX/ACB/AWB/HCA音轨
 
 ## Usage
